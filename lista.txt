@@ -1,4 +1,4 @@
-Acosta y Lara  Vázquez,  Fernando - 186601 - 
+﻿Acosta y Lara  Vázquez,  Fernando - 186601 - 
 Armas  Nuñez,  Fabiana  Gabriela - 156547 - 
 Artola  Carabetta,  Fernando - 181331 - 
 Bellizzi  Sampognaro,  Bruno  Raul - 178712 
@@ -19,7 +19,7 @@ Moure  Alassio,  Ximena  Graciana - 175660 -
 Nicoli  González,  Federico  Aquiles - 181030 - 
 Núñez  Buzo,  Leandro  Ariel - 174048 - 
 Ojeda  Quinteiro,  Federico  Adrián - 178488 - 
-Pazos  Márquez,  Agustin - 185494 - 
+Pazos  Márquez,  Agustin - 185494 - aguspazos 
 Pérez  Batalla,  Diego  Rodrigo - 178626 - 
 Perez  Cagnone,  Rodrigo  Manuel - 182102 - 
 Rumi  Chiapella,  Stefano - 187760 - 
