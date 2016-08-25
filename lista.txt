@@ -15,7 +15,7 @@
 15	-	181108	-	Introini  Tomasetti,  Luis  Gonzalo	-	[inserte usuario aquí]
 16	-	178226	-	Klappenbach  Bañales,  Diego	-	[inserte usuario aquí]
 17	-	174323	-	Laxalde  Mangini,  Facundo  Beltrán	-	[inserte usuario aquí]
-18	-	181363	-	Mauro  Mazza,  Carlos  Andrés	-	[inserte usuario aquí]
+18	-	181363	-	Mauro  Mazza,  Carlos  Andrés	-	andresmauro1989
 19	-	174048	-	Núñez  Buzo,  Leandro  Ariel	-	[inserte usuario aquí]
 20	-	165279	-	Perdomo  Gino,  Rodrigo  Facundo	-	[inserte usuario aquí]
 21	-	177753	-	Piccininno  Martínez,  Ignacio  Nicolás	-	[inserte usuario aquí]
