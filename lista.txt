@@ -5,7 +5,7 @@
 5	-	189712	-	Carrabs  Pitta,  Agustín  Leonardo	-	agusCarrabs
 6	-	156852	-	Carro  Rosconi,  Loredana	-	[inserte usuario aquí]
 7	-	136303	-	Cerban  Fogel,  Bettina  Mariel	-	[inserte usuario aquí]
-8	-	179439	-	de la Fuente  Alonso,  Fernando	-	[inserte usuario aquí]
+8	-	179439	-	de la Fuente  Alonso,  Fernando	-	[Nando179439]
 9	-	154769	-	Germano  Curbelo,  Adrián	-	agermano
 10	-	169480	-	Gerolami  Elgarte,  Álvaro	-	[inserte usuario aquí]
 11	-	176455	-	Gerolami  Elgarte,  Emilio	-	emiliogerolami
