@@ -23,7 +23,7 @@
 23	-	161604	-	Rocha  Lapachian,  María  Victoria	-	[VictoriaRocha]
 24	-	195358	-	Rodriguez  Naguil,  Emiliano  Javier	-	[inserte usuario aquí]
 25	-	166517	-	Rodriguez  Nogueira,  Nicolas  Daniel	-	[inserte usuario aquí]
-26	-	154472	-	Rodríguez  Rodríguez,  Lorenzo	-	[inserte usuario aquí]
+26	-	154472	-	Rodríguez  Rodríguez,  Lorenzo	-	[lorenz-rod]
 27	-	175197	-	Trindade  Lucas,  Gabriela	-	[inserte usuario aquí]
 28	-	152541	-	Ulguin  Cadena,  Pablo  Andrés	-	[inserte usuario aquí]
 29	-	189783	-	Zalynas  Gannelli,  Matías	-	[matiasZalynas]
