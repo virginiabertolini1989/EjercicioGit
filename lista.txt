@@ -27,3 +27,4 @@
 27	-	175197	-	Trindade  Lucas,  Gabriela	-	[inserte usuario aquí]
 28	-	152541	-	Ulguin  Cadena,  Pablo  Andrés	-	[inserte usuario aquí]
 29	-	189783	-	Zalynas  Gannelli,  Matías	-	[matiasZalynas]
+30	-	138796	-	Otero Vega, Germán		-	bluezombie
